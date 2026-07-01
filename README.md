@@ -1,28 +1,76 @@
-# 이수미 (Sumi Lee)
+# 이수미 (Sumi Lee), Ph.D.
 
-공학박사(Ph.D.), 융합공학 인공지능 전공. 인공지능(AI) 연구자 · 교육자 · 저자. 폭넓은 실무 역량.
-LLM 애플리케이션 · 인공지능·블록체인 융합(메인넷) · 컴퓨터 비전·멀티모달 · 게임공학(게임 인공지능) · XR·메타버스 · 데이터과학 · IoT·피지컬 컴퓨팅 · AI 교육 및 집필.
+**AI·블록체인 융합 (AI-Blockchain Convergence) · LLM 애플리케이션 (LLM Applications) · AI 교육 (AI Education)**
 
-Ph.D. in Convergence Engineering (AI). Researcher, educator, and author across LLM applications, AI-blockchain convergence, computer vision, game engineering, XR, data science, and AI education.
+공학박사(Ph.D. in Convergence Engineering, AI 전공) · 배재대학교 (Pai Chai University) · 대전, 대한민국
+
+📧 [sumilee.phd@gmail.com](mailto:sumilee.phd@gmail.com) · 🌐 [sumilee.com](https://www.sumilee.com) · 🎓 [Google Scholar](https://scholar.google.com/citations?user=t83qB6gAAAAJ) · 🆔 [ORCID 0009-0000-7052-7949](https://orcid.org/0009-0000-7052-7949) · 🇰🇷 IRIS 연구자번호 12820277
 
 ---
 
-## 저서 (Books)
+## 🔬 연구 (Research Focus)
 
-부크크(Bookk) 등에서 출간한 인공지능 입문서·교재.
+**AI·블록체인 융합 플랫폼**과 **LLM 애플리케이션**을 연구합니다.
+박사 연구로 지역 플랫폼 서비스 메인넷 **PAM-TALK**과 **ESG-GOLD**를 설계·구현했으며,
+RAG·에이전트 기반 LLM 응용과 교육용 시리어스 게임으로 연구를 확장하고 있습니다.
+
+Research on **AI-blockchain convergence platforms** and **LLM applications** —
+mainnet design & implementation (PAM-TALK, ESG-GOLD), RAG/agent-based systems, and serious games for AI education.
+
+**추가 관심 분야 (Additional Areas):** 컴퓨터 비전·멀티모달 인식 · 게임공학·게임 AI (Unity·Unreal) · XR·메타버스 (Apple Vision Pro) · 데이터과학 · IoT·피지컬 컴퓨팅
+
+---
+
+## 📄 논문 (Publications)
+
+### 학위논문 (Dissertations)
+- **(Ph.D., 2026)** 인공지능-블록체인 융합 기반 지역 플랫폼 서비스 메인넷 구현: **PAM-TALK 및 ESG-GOLD** (Implementation of AI-Blockchain Convergence-based Regional Platform Service Mainnet: PAM-TALK and ESG-GOLD), 호서대학교 벤처대학원 융합공학과 인공지능전공 — [[RISS 링크]](#)
+- **(M.S., 2022)** 메타버스를 활용한 초등학생용 피지컬 컴퓨팅 교육 프로그램 개발 (Development of Physical Computing Education Program for Elementary School Students Using Metaverse), 경인교육대학교 교육전문대학원 — [[RISS 링크]](#)
+
+### 학술지 (Journal Articles, KCI)
+- Development of an LLM-based Conversational Blockchain Serious Education Game, *International Journal of Internet, Broadcasting and Communication (IJIBC)* 18(2), 266-273, 2026 — [DOI](https://doi.org/10.7236/IJIBC.2026.18.2.266) · [KCI](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003330870)
+- 플랫폼 기반 메인넷 설계의 비교 연구 (A Comparative Study of Platform-based Mainnet Design), 차세대융합기술학회논문지 9(11), 2025
+- 공공데이터를 활용한 지능형 교통환경 관제시스템의 객체 탐지 성능 향상 방안, 한국전자통신학회 논문지 20(4), 2025
+- 메타버스를 활용한 초등학생용 피지컬 컴퓨팅 교육 프로그램 개발, 교육논총(경인교육대학교 교육연구원) 42(1), 2022
+
+### 학술대회 (Conference Papers)
+- Analysis of Immersion and Learning Effects Centered on Apple Vision Pro and Unity Game Engine, 2024
+- Interactive Unity Game on Recognizing and Sensing Multi-Modal with AI Computer Vision, 2023
+- Developing a Specialized High School Career Program using Generative AI Services, 2023
+
+---
+
+## 📚 저서 (Books)
+
+인공지능 입문서·대학 교재 10여 종 집필 (부크크 등 출간).
+
+### 최신간 (New Releases)
+
+<table>
+  <tr>
+    <td align="center" width="33%"><img src="assets/covers/05_vibe.jpg" width="150" alt="VIBE CODING — 바이브코딩 입문서"></td>
+    <td align="center" width="33%"><img src="assets/covers/06_llm.jpg" width="150" alt="LLM 애플리케이션 입문 — RAG 멀티에이전트"></td>
+    <td align="center" width="33%"><img src="assets/covers/01_genai.jpg" width="150" alt="생성형AI 활용 첫걸음"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>VIBE CODING</b><br>프롬프트에서 하네스까지<br><a href="https://www.yes24.com/product/goods/192977971">YES24</a></td>
+    <td align="center"><b>LLM 애플리케이션 입문</b><br>RAG에서 멀티에이전트까지<br><a href="https://www.yes24.com/product/goods/192978140">YES24</a></td>
+    <td align="center"><b>생성형AI 활용 첫걸음</b><br>개발자를 위한 입문서<br><a href="https://www.yes24.com/product/goods/192498893">YES24</a></td>
+  </tr>
+</table>
 
 ### 첫걸음 시리즈 (First Steps Series)
 
 <table>
   <tr>
-    <td align="center" width="33%"><img src="assets/covers/01_genai.jpg" width="150" alt="생성형AI 활용 첫걸음"></td>
     <td align="center" width="33%"><img src="assets/covers/02_gameai.jpg" width="150" alt="게임인공지능 첫걸음"></td>
     <td align="center" width="33%"><img src="assets/covers/04_routing.jpg" width="150" alt="라우팅&스위칭 첫걸음"></td>
+    <td align="center" width="33%"></td>
   </tr>
   <tr>
-    <td align="center"><b>생성형AI 활용 첫걸음</b><br>개발자를 위한 입문서</td>
-    <td align="center"><b>게임인공지능 첫걸음</b><br>게임 엔지니어를 위한 입문서</td>
-    <td align="center"><b>라우팅&스위칭 첫걸음</b><br>데이터센터 엔지니어를 위한 입문서</td>
+    <td align="center"><b>게임인공지능 첫걸음</b><br>게임 엔지니어를 위한 입문서<br><a href="https://www.yes24.com/product/goods/192090350">YES24</a></td>
+    <td align="center"><b>라우팅&스위칭 첫걸음</b><br>데이터센터 엔지니어를 위한 입문서<br><a href="https://www.yes24.com/product/goods/183873621">YES24</a></td>
+    <td align="center"></td>
   </tr>
 </table>
 
@@ -36,61 +84,47 @@ Ph.D. in Convergence Engineering (AI). Researcher, educator, and author across L
     <td align="center" width="25%"><img src="assets/covers/10_mbot.jpg" width="150" alt="Let's 자율주행 엠봇2"></td>
   </tr>
   <tr>
-    <td align="center"><b>AI 활용 논문작성법</b><br>학위논문에서 사업계획서까지</td>
-    <td align="center"><b>데이터과학</b><br>공저</td>
+    <td align="center"><b>AI 활용 논문작성법</b><br>학위논문에서 사업계획서까지<br><a href="https://www.yes24.com/product/goods/192090541">YES24</a></td>
+    <td align="center"><b>데이터과학</b><br>공저<br><a href="https://www.yes24.com/product/goods/126644079">YES24</a></td>
     <td align="center"><b>할로코드</b><br>공저</td>
     <td align="center"><b>Let's 자율주행 엠봇2</b><br>공저</td>
   </tr>
 </table>
 
-### 출간 예정 (Forthcoming)
+### 출간 예정 (Forthcoming, 2026)
 
 <table>
   <tr>
-    <td align="center" width="33%"><img src="assets/covers/05_vibe.jpg" width="150" alt="VIBE CODING"></td>
-    <td align="center" width="33%"><img src="assets/covers/06_llm.jpg" width="150" alt="LLM 애플리케이션 입문"></td>
-    <td align="center" width="33%"><img src="assets/covers/07_block.jpg" width="150" alt="BLOCKCHAIN"></td>
+    <td align="center" width="33%"><img src="assets/covers/07_block.jpg" width="150" alt="BLOCKCHAIN — 비트코인에서 AI 에이전트까지"></td>
   </tr>
   <tr>
-    <td align="center"><b>VIBE CODING</b><br>프롬프트에서 하네스까지</td>
-    <td align="center"><b>LLM 애플리케이션 입문</b><br>RAG에서 멀티에이전트까지</td>
-    <td align="center"><b>BLOCKCHAIN</b><br>비트코인에서 AI 에이전트까지</td>
+    <td align="center"><b>BLOCKCHAIN</b><br>비트코인에서 AI 에이전트까지 (2026 출간 예정)</td>
   </tr>
 </table>
 
 ---
 
-## 논문 (Publications)
+## 🎓 강의 (Teaching)
 
-### 학위논문 (Dissertations)
-- **(Ph.D.)** Implementation of AI-Blockchain Convergence-based Regional Platform Service Mainnet: PAM-TALK and ESG-GOLD, 2026
-- **(M.S.)** Development of Physical Computing Education Program for Elementary School Students Using Metaverse, 2022
+배재대학교 소프트웨어공학부 게임공학전공 — 게임엔진기초 · 게임엔진심화 · 데이터베이스 등 담당.
 
-### 학술지 (Journal Articles, KCI)
-- Strategies for Enhancing Object Detection Performance in Intelligent Traffic Environment Control Systems Utilizing Public Data, 2025
-- A Comparative Study of Platform-based Mainnet Design, 2025
-- Development of an LLM-based Conversational Blockchain Serious Education Game, 2026
-
-### 학술대회 (Conference Papers)
-- Interactive Unity Game on Recognizing and Sensing Multi-Modal with AI Computer Vision, 2023
-- Developing a Specialized High School Career Program using Generative AI Services, 2023
-- Analysis of Immersion and Learning Effects Centered on Apple Vision Pro and Unity Game Engine, 2024
+| 과목 | 강의 자료 |
+|---|---|
+| 게임엔진 (Game Engine, Unity·Unreal) | [gameEngineering](https://github.com/sumilee-pcu/gameEngineering) |
+| 게임 인공지능 (Game AI) | [gameAI](https://github.com/sumilee-pcu/gameAI) |
+| 데이터 시각화·앱 개발 (Streamlit) | [streamlit-lecture-project-sample](https://github.com/sumilee-pcu/streamlit-lecture-project-sample) |
 
 ---
 
-## 분야 (Research Interests)
+## 🛠 대표 프로젝트 (Featured Projects)
 
-- 인공지능 / LLM 애플리케이션 설계 (RAG, 에이전트, 프롬프트와 컨텍스트 엔지니어링)
-- 인공지능·블록체인 융합, 메인넷 설계와 구현
-- 컴퓨터 비전, 멀티모달 인식
-- 게임공학, 게임 인공지능 (Unity·Unreal 기반 개발)
-- XR·메타버스, 몰입형 학습 (Apple Vision Pro)
-- 데이터과학, IoT·피지컬 컴퓨팅
-- 인공지능 교육 (대학 교재, 기업 워크숍, 입문서 집필)
+- **PAM-TALK** — AI·블록체인 융합 지역 플랫폼 서비스 메인넷 (박사 연구) — [저장소 링크](#)
+- **ESG-GOLD** — ESG 데이터 기반 블록체인 보상 플랫폼 (박사 연구) — [저장소 링크](#)
+- **LLM 블록체인 교육 게임** — LLM 기반 대화형 시리어스 게임 (KCI 2026 논문) — [저장소 링크](#)
 
 ---
 
-## 기술 스택 (Skills)
+## ⚙️ 기술 스택 (Skills)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -103,7 +137,7 @@ Ph.D. in Convergence Engineering (AI). Researcher, educator, and author across L
 
 ---
 
-## GitHub
+## 📊 GitHub
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=sumilee-pcu&show_icons=true&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumilee-pcu&layout=compact&hide_border=true)
