@@ -6,13 +6,13 @@
 
 *AI researcher, educator, and author — building AI-blockchain convergence platforms and LLM applications, and extending convergence research into physical AI with ROS 2. Adjunct Professor at Pai Chai University, Republic of Korea.*
 
-📧 [sumilee.phd@gmail.com](mailto:sumilee.phd@gmail.com) · 🌐 [sumilee.com](https://www.sumilee.com) · 🎓 [Google Scholar](https://scholar.google.com/citations?user=t83qB6gAAAAJ) · 🆔 [ORCID 0009-0000-7052-7949](https://orcid.org/0009-0000-7052-7949) · 🇰🇷 IRIS 연구자번호 12820277
+📧 [sumilee.phd@gmail.com](mailto:sumilee.phd@gmail.com) · 🎓 [Google Scholar](https://scholar.google.com/citations?user=t83qB6gAAAAJ) · 🆔 [ORCID 0009-0000-7052-7949](https://orcid.org/0009-0000-7052-7949) · 🇰🇷 IRIS 연구자번호 12820277
 
 ---
 
 ## 🔬 연구 (Research Focus)
 
-**AI·블록체인 융합 플랫폼**과 **LLM 애플리케이션**을 중심으로 연구하며, 융합의 다음 단계로 **피지컬 AI(로보틱스·ROS 2)**를 다루고 있습니다.
+**AI·블록체인 융합 플랫폼**과 **LLM 애플리케이션**을 중심으로 연구하며, 융합의 다음 단계로 <b>피지컬 AI(로보틱스·ROS 2)</b>를 다루고 있습니다.
 박사 연구로 지역 플랫폼 서비스 메인넷 **PAM-TALK**과 **ESG-GOLD**를 설계·구현했으며,
 RAG·에이전트 기반 LLM 응용, 교육용 시리어스 게임, ROS 2 기반 피지컬 AI 교육으로 연구를 확장하고 있습니다. (ROS 2 교재 집필 중)
 
