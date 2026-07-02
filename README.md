@@ -106,13 +106,22 @@ mainnet design & implementation (PAM-TALK, ESG-GOLD), RAG/agent-based systems, a
 
 ## 🎓 강의 (Teaching)
 
-배재대학교 소프트웨어공학부 게임공학전공 — 게임엔진기초 · 게임엔진심화 · 데이터베이스 등 담당.
+### 현재 강의 (Current)
 
-| 과목 | 강의 자료 |
-|---|---|
-| 게임엔진 (Game Engine, Unity·Unreal) | [gameEngineering](https://github.com/sumilee-pcu/gameEngineering) |
-| 게임 인공지능 (Game AI) | [gameAI](https://github.com/sumilee-pcu/gameAI) |
-| 데이터 시각화·앱 개발 (Streamlit) | [streamlit-lecture-project-sample](https://github.com/sumilee-pcu/streamlit-lecture-project-sample) |
+| 기관 | 직위 | 담당 과목 |
+|---|---|---|
+| 배재대학교 AI소프트웨어공학부 게임공학전공 | 겸임교수 | 게임제작플랫폼 · 게임엔진 (Unity·Unreal) |
+| 강원대학교 | 강사 | 기초빅데이터프로그래밍 (2024~ 응용빅데이터프로그래밍, 임베디드시스템운영체제 등) |
+| 한국폴리텍대학Ⅱ 인천캠퍼스 (AX과정) | 강사 | 생성형AI활용 · 라우팅및스위칭 |
+
+### 강의 경력 (Past Teaching)
+
+| 기관 | 기간 | 담당 과목 |
+|---|---|---|
+| 재능대학교 AI융복합과 | 2022–2024, 겸임교수 | AI 프로그래밍 I·II·고급, 딥러닝 활용, 인공지능 자연어 처리, 인공지능 플랫폼 이해·활용, 메타버스 디자인, 취·창업연계 캡스톤 디자인·구현, 디지털사고력, 디지털교육개론 외 |
+| 한국폴리텍대학Ⅱ 인천캠퍼스 디지털융합제어과 | 2024 | 디지털트윈구축실습, XR통합제어실습 |
+
+**강의 자료 저장소:** [gameEngineering](https://github.com/sumilee-pcu/gameEngineering) · [gameAI](https://github.com/sumilee-pcu/gameAI) · [CPP_UnrealEngine_2026](https://github.com/sumilee-pcu/CPP_UnrealEngine_2026) · [streamlit-lecture-project-sample](https://github.com/sumilee-pcu/streamlit-lecture-project-sample) · [ROS2_2026](https://github.com/sumilee-pcu/ROS2_2026)
 
 ---
 
